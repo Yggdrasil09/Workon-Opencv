@@ -43,4 +43,3 @@ for i in range(0,25):
 
 cv2.imshow("Canvas",canvas)
 cv2.waitKey(0)
-
